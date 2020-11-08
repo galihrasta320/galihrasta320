@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Galih!
-Currently I am open to any opportunity especially in IT as a Mobile Developer and iOS Developer. 
+Currently I am open to any opportunity especially in IT as a Website Developer, Mobile Developer and iOS Developer. 
 
 ### Tools:
 <p>
