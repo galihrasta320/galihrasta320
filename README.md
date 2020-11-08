@@ -26,24 +26,25 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
 
 ### Let's connect!
 <p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.id-green?" /></a>
+    <a href="https://galih-ckt.my.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.id-green?" /></a>
     <a href="https://www.linkedin.com/in/bagusfedotid" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
     <a href="https://https://twitter.com/bagusfedotid" target="blank"><img src="https://img.shields.io/badge/@bagusfedotid-30302f?style=flat&logo=twitter" /></a>
     <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
-<!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current activity
 
-Here are some ideas to get you started:
+- 💻 I'm currently developing <a href="https://github.com/fauzan121002/denovel/tree/development">denovel</a> and some freelance projects.
+- 📖 I’m currently learning deno and golang;
+- 🤔 My interests are with front-end & backend then i decide to do fullstack;
+- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via developerfauzan@asraja.com to reach me.
+- 📝 See my <a href="https://www.linkedin.com/in/developerfauzan/">linked.in</a> to get more info.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Language Agnostic , Tech Enthusiast and Fullstack Web Developer.
+
+## Most Used Programming Language
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihrasta320&theme=vue">
