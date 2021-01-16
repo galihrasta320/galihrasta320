@@ -18,27 +18,8 @@ Currently I am open to any opportunity especially in IT as a Website Developer a
 ## Most Used Programming Language
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihrasta320&theme=vue">
-## Hi there 👋 I'm [Charalambos][website] but you can call me Harry 😀
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
-
-
-
-## 🎓 I'm an MSc Data Science student at the University of Edinburgh
-
-- 🔭 I’m currently developing a mobile app with Glideapps.
-- 🌱 I’m currently learning Angular.
-- 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me about anything
-- ⚡ Fun fact: I love playing tennis and computer games.
-
-## :email: Find me on:
-
-<!--
-[<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
--->
+![](https://visitor-badge.laobi.icu/badge?page_id=galihrasta320.galihrasta320) [![Github](https://img.shields.io/github/followers/galihrasta320?label=Followers&logo=Github)](https://github.com/galihrasta320)
 
 <p align="center">
  <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
@@ -64,9 +45,8 @@ Currently I am open to any opportunity especially in IT as a Website Developer a
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
- </p>
- <br>
-## :trophy: My Github Stats:
+    </br>
+# :trophy: My Github Stats:
 
 <!--
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
