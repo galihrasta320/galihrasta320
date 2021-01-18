@@ -10,7 +10,7 @@ Currently I am open to any opportunity especially in IT as a Website Developer a
 
 - 💻 I'm currently developing <a href="https://galih-ckt.my.id">Rasta Pedia SMM</a> and some freelance projects
 - 📖 I’m currently learning PHP Framework and Python
-- 🤔 My interests are with front-end & backend then i decide to do fullstack
+- 🤔 My interests are with front-end & backend Web Developer then i decide to do fullstack
 - 💼 I'm studying Software Engineering at SMK Telkom Banjarbaru
 - 💬 Ask me about anything, I am happy to help
 - 📫 Please email via saputragalih950@gmail.com to reach me
