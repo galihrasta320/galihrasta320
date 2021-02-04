@@ -3,7 +3,7 @@ Currently I am open to any opportunity especially in IT as a Website Developer a
 
 <p>
     <img src="https://gpvc.arturio.dev/galihrasta320" />
-    <img src="https://img.shields.io/github/followers/galihrasta320?label=Followers&logo=Github)](https://github.com/galihrasta320">
+    <img src="https://img.shields.io/github/followers/galihsptr320?label=Followers&logo=Github)](https://github.com/galihsptr320">
 </p>
 
 ## Current activity
@@ -32,10 +32,10 @@ Currently I am open to any opportunity especially in IT as a Website Developer a
     
 ## My Github Stats:
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=galihrasta320&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=galihrasta320&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=galihsptr320&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=galihsptr320&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=galihrasta320&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=galihrasta320&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=galihsptr320&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=galihsptr320&theme=tokyonight" />
 </a>
 </div>
